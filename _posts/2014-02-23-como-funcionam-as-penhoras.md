@@ -3,14 +3,14 @@ layout: default
 title: Como funcionam as penhoras
 ---
 
-# {{ page.title }}
+#  {{ page.title }}
 
-##Desde o início de 2013 que as Finanças obriga à emissão de fatura em todas as vendas, ainda que esta não seja solicitada pelo consumidor.
+## Desde o início de 2013 que as Finanças obriga à emissão de fatura em todas as vendas, ainda que esta não seja solicitada pelo consumidor.
 
 Além das vantagens para o orçamento do país pedir fatura também tem vantagens específicas para o consumidor.
 Fique a saber porque deve pedir fatura.
 
-##Vantagens para o país - Recomendação das Finanças
+## Vantagens para o país - Recomendação das Finanças
 
 Pedir fatura sempre foi uma recomendação das Finanças, no entanto, a partir de janeiro de 2013 a sua emissão passou a ser obrigatória.
 
@@ -20,7 +20,7 @@ Não pedir fatura faz com que a evasão fiscal aumente o que por sua vez se trad
 
 Pedir fatura não tem qualquer custo, bastando para isso solicitar ao comerciante a emissão da mesma. Se pedir que o seu contribuinte seja colocado, poderá ainda ter vantagens adicionais.
 
-##Vantagens para o próprio consumidor
+## Vantagens para o próprio consumidor
 
 Pedir fatura não traz apenas benefícios para o país no seu geral, também pode beneficiar os consumidores. Ao beneficiar o país, o consumidor está igualmente a ser beneficiado, mas existem vantagens a nível individual que visam convencer todos os portugueses a pedir sempre fatura.
 

@@ -3,26 +3,26 @@ layout: default
 title: O que é e para que serve a caderneta predial?
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Já ouviu falar da caderneta predial? Afinal o que é e para que serve a caderneta predial? Com tantos documentos e burocracias, é obrigação do cidadão estar sempre informado e possuir os documentos necessários.
 
 Ao contrário de outros mais complicados, a caderneta predial é um género de bilhete de identidade da sua casa!
 
-##O que é a caderneta predial
+## O que é a caderneta predial
 
 A caderneta predial é um documento onde constam várias informações sobre o seu prédio, seja uma casa/apartamento ou terreno. É aqui que pode ter acesso a todos os dados sobre o seu prédio, incluindo a sua identificação, localização e descrição. Inclui também a identificação dos seus proprietários e outras informações, como a área do imóvel e a avaliação da mesma.
 
 Aqui também estarão incluídas as isenções a que teve direito, como a isenção do IMI ou o ano de construção da casa.
 Deve ter sempre a caderneta predial arquivada nos seus documentos pessoais, mas também a poderá requisitar novamente caso a perca.
 
-##Para que serve a caderneta predial
+## Para que serve a caderneta predial
 
 A caderneta predial, sendo um género de bilhete de identidade do seu prédio, é necessária em operações que necessitam de informações do prédio. Contém informações que identificam o seu prédio e o distinguem dos restantes, pois contém o artigo e a fração que são únicos para cada localidade.
 Como exemplo, quando está a candidatar-se a apoios do estado para o arrendamento (como a Porta 65 Jovem) a caderneta predial é sempre necessária, para que a sua avaliação possa ser consultada, bem como a área e o número de assoalhadas.
 A caderneta predial pode ser entregue sempre que solicitada e pode até ser enviada por e-mail.
 
-##Como obter a caderneta predial
+## Como obter a caderneta predial
 
 A caderneta predial é lhe normalmente fornecida aquando a aquisição de uma casa ou de um terreno. Pode ser entregue antes da escritura ou na altura da mesma.
 

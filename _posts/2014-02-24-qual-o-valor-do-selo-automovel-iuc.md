@@ -3,14 +3,14 @@ layout: default
 title: Qual o valor do selo automóvel (IUC)
 ---
 
-# {{ page.title }}
+#  {{ page.title }}
 
-## O selo automóvel, ou IUC - Imposto Único de Circulação, é um pagamento obrigatório para todos os proprietários de veículos motorizados, ainda que estes não estejam em circulação.
+##  O selo automóvel, ou IUC - Imposto Único de Circulação, é um pagamento obrigatório para todos os proprietários de veículos motorizados, ainda que estes não estejam em circulação.
 
 Este pagamento é anual e o valor a pagar de selo automóvel varia consoante o veículo em causa.
 Saiba quanto terá que pagar pelo selo do automóvel.
 
-##Como saber o valor do selo automóvel
+## Como saber o valor do selo automóvel
 
 O valor do selo automóvel varia consoante o ano, a cilindrada, as emissões e a ainda o combustível do veículo. Este valor é também atualizado anualmente, portanto o que pagou em 2013 não será idêntico ao que terá que pagar em 2014.
 O primeiro passo para saber quanto tem que pagar é verificar onde se encontra o seu veículo nas tabelas do Imposto Único de Circulação.
@@ -366,7 +366,7 @@ Veja todos os dados nas tabelas do IUC para 2014.
   </tr>
 </table>
 
-##Simulador online
+## Simulador online
 
 A Anecra disponibilizou um simulador do selo automóvel para 2014. Basta escolher a tabela a que pertence e preencher com as informações necessárias (cilindrada, combustível, etc.).
 

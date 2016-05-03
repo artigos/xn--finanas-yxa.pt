@@ -3,14 +3,14 @@ layout: default
 title: Imposto de circulação - Quando se faz o pagamento?
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 O imposto de circulação (IUC) deve ser pago anualmente por todos os proprietários de veículos.
  Os veículos abrangidos são: veículos das categorias A, B, C, D e E, embarcações de recreio de uso particular (F) e aeronaves de uso particular (G).
 
 O pagamento deste imposto (imposto único de circulação) é obrigatório mesmo que o veículo esteja fora de circulação. Para deixar de pagar o imposto de circulação necessita de cancelar a matrícula.
 
-##Até quando se pode pagar o imposto de circulação?
+## Até quando se pode pagar o imposto de circulação?
 
 O pagamento do imposto automóvel deve ser feito até ao final do mês da matrícula. Assim, se o seu carro for de dia 9 de Abril (por exemplo), pode efetuar o pagamento até ao último dia de Abril.
 
@@ -18,7 +18,7 @@ Se não efetuar o pagamento no devido tempo, estará sujeito a coimas que aument
 
 Mesmo que efetue a venda do veículo é necessário confirmar se esta alteração foi realizada nas Finanças, caso contrário será responsável pelo pagamento do imposto e respetivas coimas.
 
-##Onde fazer o pagamento
+## Onde fazer o pagamento
 
 O pagamento do imposto de circulação pode ser feito de duas formas simples.
 

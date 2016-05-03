@@ -3,12 +3,12 @@ layout: default
 title: IMI - Valor das Taxas a pagar
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 O IMI - Imposto Municipal sobre Imóveis é uma taxa que os proprietários de imóveis e terrenos devem liquidar anualmente.
 O valor das taxas a pagar é definido pelo município e será sempre uma percentagem do valor da avaliação do imóvel.
 
-##Quais as taxas permitidas?
+## Quais as taxas permitidas?
 
 A taxa a aplicar é sempre definida pelo município, no entanto existem valores mínimos e máximos.
 
@@ -18,7 +18,7 @@ Já os prédios rústicos têm uma taxa de 0.8%.
 
 Normalmente as áreas do interior e com menos população oferecem as taxas mais baixas como forma de cativar a habitação. Já as zonas mais populadas têm tendência a colocar as taxas de IMI mais altas.
 
-##Quanto vai pagar de IMI
+## Quanto vai pagar de IMI
 
 Para saber quanto vai pagar de IMI terá que verificar qual a taxa aplicada pelo seu concelho, saber qual a avaliação do seu prédio e ainda ter outras informações como a área.
 
@@ -28,7 +28,7 @@ As Finanças disponibilizam um simulador [http://www.e-financas.gov.pt/SIGIMI/ca
 
 Pode também verificar se ainda está isento de IMI no Portal das Finanças.
 
-##Taxas de IMI por concelho para 2014
+## Taxas de IMI por concelho para 2014
 
 Pode consultar as taxas de IMI por concelho no Portal das Finanças, no entanto, apresentamos as taxas de IMI de 2013 que serão pagas em 2014.
 

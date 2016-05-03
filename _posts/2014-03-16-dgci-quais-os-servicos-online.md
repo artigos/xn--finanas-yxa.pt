@@ -3,14 +3,14 @@ layout: default
 title: DGCI - Quais os serviços online?
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 A DGCI - Direção-geral das Contribuições e Impostos - disponibiliza uma série de serviços online que tornam a vida dos portugueses muito mais prática. Se antes tinha que se deslocar a uma repartição de finanças para entregar o IRS ou efetuar o pagamento do IUC, agora poderá realizar todos estes serviços sem necessidade de sair de casa.
 Ainda existem muitos contribuintes que desconhecem os serviços disponíveis e que acabam por se deslocar às Finanças quando poderiam fazer tudo sem sair de casa.
 
 Conheça aqui alguns dos serviços online mais utilizados.
 
-##Serviços online da DGCI para o contribuinte
+## Serviços online da DGCI para o contribuinte
 
 Cada vez mais a utilização da internet vem facilitar a vida de todos nós tornando operações tradicionalmente morosas e complicadas em algo simples e rápido.
 
