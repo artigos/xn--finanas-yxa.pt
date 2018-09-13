@@ -370,4 +370,4 @@ Veja todos os dados nas tabelas do IUC para 2014.
 
 A Anecra disponibilizou um simulador do selo automóvel para 2014. Basta escolher a tabela a que pertence e preencher com as informações necessárias (cilindrada, combustível, etc.).
 
-Pode consultar o simulador [aqui](http://www.anecra.pt/gabecono/p054.aspx).
+Pode consultar o simulador [aqui](//www.anecra.pt/gabecono/p054.aspx).

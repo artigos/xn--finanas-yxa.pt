@@ -22,7 +22,7 @@ Em caso de dúvida se o ato que pretende efetuar está ou não na base de incid�
 
 Existem imensas taxas distintas, pois o seu valor varia consoante o ato/contrato que deseje efetuar.
 
-Vamos apresentar uma lista dos atos mais comuns, mas poderá consultar a Tabela Geral no próprio [site das Finanças](http://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/ccod_selo_tabgiselo.htm).
+Vamos apresentar uma lista dos atos mais comuns, mas poderá consultar a Tabela Geral no próprio [site das Finanças](//info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/ccod_selo_tabgiselo.htm).
 
 | Ato                                             | Taxa do Imposto de Selo     |
 | ----------------------------------------------- | --------------------------- |
@@ -33,4 +33,4 @@ Vamos apresentar uma lista dos atos mais comuns, mas poderá consultar a Tabela 
 | Trespasse de estabelecimento                    | 5%                          |
 | Prémios do Euromilhões (superior a 5.000€       | 20%                         |
 
-Deve sempre consultar a Tabela Geral no site das Finanças para garantir que dispõe de informação sempre atualizada. Em caso de dúvida, poderá também consultar o Código do Imposto de Selo, disponível no [site das Finanças](http://info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/).
+Deve sempre consultar a Tabela Geral no site das Finanças para garantir que dispõe de informação sempre atualizada. Em caso de dúvida, poderá também consultar o Código do Imposto de Selo, disponível no [site das Finanças](//info.portaldasfinancas.gov.pt/pt/informacao_fiscal/codigos_tributarios/selo/).

@@ -24,7 +24,7 @@ Para saber quanto vai pagar de IMI terá que verificar qual a taxa aplicada pelo
 
 Todas as informações relativas ao seu imóvel podem ser consultadas na Caderneta Predial que poderá consultar no Portal das Finanças.
 
-As Finanças disponibilizam um simulador [http://www.e-financas.gov.pt/SIGIMI/calculos.jsp?selTipAfe=2&txtCoeLoc=2,5&selTipPre=0](http://www.e-financas.gov.pt/SIGIMI/calculos.jsp?selTipAfe=2&txtCoeLoc=2,5&selTipPre=0) que o ajudam a verificar quanto irá pagar. Além deste, também a DECO lançou um simulador [http://www.paguemenosimi.pt/simulacao](http://www.paguemenosimi.pt/simulacao) em que alega que conseguirá dar-lhe o valor real do IMI a pagar, indicando que as Finanças estão, em alguns casos, a cobrar valores mais altos que o correto.
+As Finanças disponibilizam um simulador [//www.e-financas.gov.pt/SIGIMI/calculos.jsp?selTipAfe=2&txtCoeLoc=2,5&selTipPre=0](//www.e-financas.gov.pt/SIGIMI/calculos.jsp?selTipAfe=2&txtCoeLoc=2,5&selTipPre=0) que o ajudam a verificar quanto irá pagar. Além deste, também a DECO lançou um simulador [//www.paguemenosimi.pt/simulacao](//www.paguemenosimi.pt/simulacao) em que alega que conseguirá dar-lhe o valor real do IMI a pagar, indicando que as Finanças estão, em alguns casos, a cobrar valores mais altos que o correto.
 
 Pode também verificar se ainda está isento de IMI no Portal das Finanças.
 
